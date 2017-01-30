@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class DateString
 
     Private Sub btnShowDate_Click(sender As Object, e As EventArgs) Handles btnShowDate.Click
         ' Concatenate the input and build the date string.
